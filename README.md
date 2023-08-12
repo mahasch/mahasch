@@ -9,8 +9,6 @@ Welcome to my GitHub profile! I'm a student at Imperial College London, currentl
 📧 [Email](mailto:mahasyed03@hotmail.com)
 
 ## Languages and Tools
-
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=Microsoft-Azure&logoColor=white)
 ![CSharp](https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=C-Sharp&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
@@ -26,16 +24,3 @@ Welcome to my GitHub profile! I'm a student at Imperial College London, currentl
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
 
 
-
-
-<!-- ## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark) -->
-
-## 🏠 Projects
-
--- [My portfolio](mahanoorsyed.pages.dev) contains a list of my projects, experience and awards. 
-
-
-
-Let's connect and collaborate on innovative projects that empower the developer and education communities!
