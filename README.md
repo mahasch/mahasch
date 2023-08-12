@@ -5,8 +5,6 @@
 Welcome to my GitHub profile! I'm a student at Imperial College London, currently studying Electronic and Information Engineering. I'm passionate about using technology to solve real-world problems and I'm always looking to learn new things. I'm currently learning about cloud computing and machine learning. I'm also interested in web development, machine learning and software development.
 '
 
-## 📫 Reach Me
-📧 [Email](mailto:mahasyed03@hotmail.com)
 
 ## Languages and Tools
 ![CSharp](https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=C-Sharp&logoColor=white)
@@ -23,4 +21,8 @@ Welcome to my GitHub profile! I'm a student at Imperial College London, currentl
 ![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat-square&logo=Blazor&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
 
+
+## 📫 Reach Me
+Feel free to reach me on email!
+📧 [Email](mailto:mahasyed03@hotmail.com)
 
