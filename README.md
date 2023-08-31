@@ -28,5 +28,5 @@ I'm passionate about using technology to solve real-world problems and I'm alway
 Feel free to reach me on email!
 📧 [Email](mailto:mahasyed03@hotmail.com)
 Also check out my personal website!
-[here](mahanoorsyed.pages.dev)
+[here](linkto:mahanoorsyed.pages.dev)
 
