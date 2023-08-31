@@ -2,7 +2,9 @@
 
 🚀 Electronic and Information Engineering Student at Imperial College London
 
-Welcome to my GitHub profile! I'm a student at Imperial College London, currently studying Electronic and Information Engineering. I'm passionate about using technology to solve real-world problems and I'm always looking to learn new things. I'm currently learning about cloud computing and machine learning. I'm also interested in web development, machine learning and software development.
+Welcome to my GitHub profile! 
+
+I'm passionate about using technology to solve real-world problems and I'm always looking to learn new things. I'm currently learning about cloud computing and machine learning. I'm also interested in web development, machine learning and software development.
 '
 
 
