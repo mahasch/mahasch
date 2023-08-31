@@ -1,12 +1,10 @@
-# Hi there! 👋 I'm Mahanoor
+# Hello there! 👋 I'm Mahanoor
 
-🚀 Electronic and Information Engineering Student at Imperial College London
+🚀 Studying Electronic and Information Engineering at Imperial College London
 
 Welcome to my GitHub profile! 
 
-I'm passionate about using technology to solve real-world problems and I'm always looking to learn new things. I'm currently learning about cloud computing and machine learning. I'm also interested in web development, machine learning and software development.
-'
-
+I'm passionate about leveraging technology to solve real-world problems, and I'm always eager to learn new things. Currently, I'm delving into cloud computing and machine learning. I'm also keenly interested in web development, machine learning, and software development.
 
 ## Languages and Tools
 ![CSharp](https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=C-Sharp&logoColor=white)
@@ -23,10 +21,8 @@ I'm passionate about using technology to solve real-world problems and I'm alway
 ![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat-square&logo=Blazor&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
 
-
 ## 📫 Reach Me
-Feel free to reach me on email!
+Feel free to reach me by email!
 📧 [Email](mailto:mahasyed03@hotmail.com)
-Also check out my personal website!
-[here](linkto:mahanoorsyed.pages.dev)
-
+Also, check out my personal website!
+[here](https://mahanoorsyed.pages.dev)
